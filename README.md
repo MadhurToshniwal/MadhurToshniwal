@@ -1,6 +1,6 @@
 # Hi 👋, I'm Madhur Toshniwal
 
-**Coding | AI & ML | Web Dev | Cloud Enthusiast**
+**Coding | AI & ML | Web Dev | Cloud Enthusiast | Data Analyst**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhur-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-toshniwal)
 [![Gmail](https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white)](mailto:madhurtoshniwal03@gmail.com)
