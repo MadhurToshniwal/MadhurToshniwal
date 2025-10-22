@@ -14,9 +14,9 @@
 
 ---
 
-## 🔭 I’m Currently Working On
+## 🔭 I’m Currently Working On    
+- Cloud & DevOps projects  
 - AI & Machine Learning projects  
-- Cloud & DevOps experiments  
 - Final year B.Tech CSE projects  
 
 ## 🌱 I’m Currently Learning
