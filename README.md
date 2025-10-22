@@ -68,3 +68,12 @@
 ![Madhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhurToshniwal&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhurToshniwal&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+- Email: [madhurtoshniwal03@gmail.com](mailto:madhurtoshniwal03@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/madhur-toshniwal](https://www.linkedin.com/in/madhur-toshniwal)  
+- Phone: +91-XXXXXXXXXX  
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue)
