@@ -9,7 +9,6 @@
 
 ## ✨ About Me
 🎓 B.Tech in Computer Science @ VIT Vellore, CGPA: 9.07  
-🏆 AWS Certified  
 💼 Ongoing Intern at Samsung R&D Institute for Samsung Prism project  
 🤝 Open to collaboration on AI, ML, IoT, and full-stack projects  
 
