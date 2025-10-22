@@ -1,26 +1,9 @@
-<!-- Gradient Name Header -->
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">
-    Madhur Toshniwal
-  </span>
-</h1>
+# Hi 👋, I'm Madhur Toshniwal
+**Coding | AI & ML | Web Dev | Cloud Enthusiast | Data Analyst**
 
-<p align="center">
-  <b>Coding | AI & ML | Web Dev | Cloud Enthusiast | Data Analyst</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/madhur-toshniwal">
-    <img src="https://img.shields.io/badge/LinkedIn-Madhur-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:madhurtoshniwal03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square" alt="Portfolio">
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue" alt="Profile Views">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhur-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-toshniwal)
+[![Gmail](https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white)](mailto:madhurtoshniwal03@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square)](https://your-portfolio-link.com)
 
 ---
 
