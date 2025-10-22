@@ -8,25 +8,28 @@
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue)
 
+---
+
 ## ✨ About Me
 🎓 B.Tech in Computer Science @ VIT, CGPA: 9.07  
-🏆 AWS Certified
-💼 Ongoing Intern at Samsung R&D Institute for Samsung Prism project
-🤝 Open to collaboration on AI, ML, IoT, and full-stack projects 
+🏆 AWS Certified  
+💼 Ongoing Intern at Samsung R&D Institute for Samsung Prism project  
+🤝 Open to collaboration on AI, ML, IoT, and full-stack projects  
+
 ---
 
-### 🔭 I’m currently working on
+## 🔭 I’m Currently Working On
 - AI & Machine Learning projects  
 - Cloud & DevOps experiments  
-- Final year B.Tech CSE projects
+- Final year B.Tech CSE projects  
 
-### 🌱 I’m currently learning
+## 🌱 I’m Currently Learning
 - Docker, Kubernetes & Advanced Cloud Architectures  
-- Large Language Models & AI Integrations
+- Large Language Models & AI Integrations  
 
 ---
 
-### 🛠 Languages and Tools
+## 🛠 Languages & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Madhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhurToshniwal&show_icons=true&theme=radical)
 
