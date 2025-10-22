@@ -20,9 +20,6 @@
 - Docker, Kubernetes & Advanced Cloud Architectures  
 - Large Language Models & AI Integrations
 
-### 💡 Fun fact
-> The first computer “bug” was a real moth found in a machine in 1947 🐛
-
 ---
 
 ### 🛠 Languages and Tools
