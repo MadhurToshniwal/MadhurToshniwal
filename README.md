@@ -8,7 +8,11 @@
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue)
 
-
+## ✨ About Me
+🎓 B.Tech in Computer Science @ VIT, CGPA: 9.07  
+🏆 AWS Certified
+💼 Ongoing Intern at Samsung R&D Institute for Samsung Prism project
+🤝 Open to collaboration on AI, ML, IoT, and full-stack projects 
 ---
 
 ### 🔭 I’m currently working on
