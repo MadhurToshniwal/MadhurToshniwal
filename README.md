@@ -6,7 +6,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square)](https://your-portfolio-link.com)
 
-![Profile Views](https://camo.githubusercontent.com/00f4d47f339b5dbab385f7e602f003858472e45704213effaf484f789f9ea2be/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61797573686139726177616c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&left_color=gray&right_color=blue)
+
 
 ---
 
