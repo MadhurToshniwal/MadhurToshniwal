@@ -29,6 +29,20 @@
 
 ---
 
+## 💼 Experience
+
+**Research & Development Intern | Samsung R&D Bangalore (SRIB) | Samsung Prism**  
+*July 2025 – Present*  
+- Developing a lightweight ML model using NLP techniques to generate concise, context-aware titles from OCR-extracted text in multiple languages, targeting 93%+ accuracy on 10K+ noisy/informal real-world samples.  
+- Optimizing for edge deployment on mobile and embedded platforms using generative AI with real-time multi-title generation and 95%+ confidence threshold selection.  
+- Integrated via APIs to auto-fill titles across scheduling, reminders, and note-taking tools—boosting automation and user productivity by up to 80%.
+
+**SDE Intern | Mechatronics Systems Pvt. Ltd | Pune**  
+*May 2025 – July 2025*  
+- Engineered a real-time hydro-informatics platform integrating a Python-based autonomous email-to-database ETL pipeline, high-frequency schedulers (10–15s), and MySQL backend—reducing latency by 70% and data errors by 60%.  
+- Pioneered an interactive real-time dashboard with anomaly clustering, data visualization, and Twilio-based 24×7 alerting—deployed on cloud infrastructure to automate internal monitoring and improve transmission reliability to 99% across remote tactical units.
+
+
 ## 🛠 Languages & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
