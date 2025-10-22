@@ -65,8 +65,12 @@
 
 
 ## 📫 Contact Me
-- Email: [madhurtoshniwal03@gmail.com](mailto:madhurtoshniwal03@gmail.com)  
-- LinkedIn: [https://www.linkedin.com/in/madhur-toshniwal](https://www.linkedin.com/in/madhur-toshniwal)  
-- Phone: +91-7248942163  
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurtoshniwal03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-toshniwal)
+[![Phone](https://img.shields.io/badge/Phone-+91--7248942163-green?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue" alt="Profile Views"/>
+</p>
+
