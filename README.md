@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square)](https://your-portfolio-link.com)
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&left_color=gray&right_color=blue)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue)
 
 
 ---
