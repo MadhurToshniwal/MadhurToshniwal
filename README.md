@@ -1,0 +1,49 @@
+# Hi 👋, I'm Madhur Toshniwal
+
+**Coding | AI | Web Dev | Cloud Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhur-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square)](https://your-portfolio-link.com)
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=MadhurToshniwal.MadhurToshniwal)
+
+---
+
+### 🔭 I’m currently working on
+- AI & Machine Learning projects  
+- Cloud & DevOps experiments  
+- Final year B.Tech CSE projects
+
+### 🌱 I’m currently learning
+- Docker, Kubernetes & Advanced Cloud Architectures  
+- Large Language Models & AI Integrations
+
+### 💡 Fun fact
+> The first computer “bug” was a real moth found in a machine in 1947 🐛
+
+---
+
+### 🛠 Languages and Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Madhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhurToshniwal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhurToshniwal&layout=compact&theme=radical)
