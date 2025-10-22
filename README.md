@@ -2,8 +2,8 @@
 
 **Coding | AI & ML | Web Dev | Cloud Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhur-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhur-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-toshniwal)
+[![Gmail](https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white)](mailto:madhurtoshniwal03@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square)](https://your-portfolio-link.com)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue)
