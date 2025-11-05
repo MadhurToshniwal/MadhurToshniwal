@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=30&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=850&lines=👋+Hey+there!;I'm+🌟+Madhur+Toshniwal+🌟;AI+%7C+ML+%7C+Cloud+Computing+Enthusiast;Creating+Smart+and+Impactful+Tech+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2800&pause=1000&color=000000&center=true&vCenter=true&width=720&lines=Hi+there!+👋;I'm+Madhur+Toshniwal;AI+%26+ML+Explorer+%7C+Cloud+Innovator;Transforming+Ideas+Into+Intelligent+Solutions+⚡" alt="Typing SVG" />
 </p>
 
 
