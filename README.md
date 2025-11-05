@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2800&pause=1000&color=000000&center=true&vCenter=true&width=720&lines=Hi+there!+👋;I'm+Madhur+Toshniwal;AI+%26+ML+Explorer+%7C+Cloud+Innovator;Transforming+Ideas+Into+Intelligent+Solutions+⚡" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Madhur%20Toshniwal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Transforming%20Ideas%20Into%20Intelligent%20Solutions&descAlignY=55&descSize=18" alt="Header"/>
 </p>
+<div align="center">
 
 
 
