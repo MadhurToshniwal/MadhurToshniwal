@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./intro.svg" alt="Hi, I'm Madhur Toshniwal — animated intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=2B6CB0&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Madhur+Toshniwal;Coding+%7C+AI+%26+ML+%7C+Web+Dev+%7C+Cloud+%7C+Data+Analytics" alt="Typing SVG" />
 </p>
+
 
 **Coding | AI & ML | Web Dev | Cloud Enthusiast | Data Analyst**
 
