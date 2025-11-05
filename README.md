@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2800&pause=1000&color=000000&center=true&vCenter=true&width=720&lines=Hi+there!+👋;I'm+Madhur+Toshniwal;AI+%26+ML+Explorer+%7C+Cloud+Innovator;Transforming+Ideas+Into+Intelligent+Solutions+⚡" alt="Typing SVG" />
-</p>
+<div align="center">
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&fontSize=0" />
+<!-- Main Animated Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=50&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=Hi+there!+%F0%9F%91%8B;I'm+Madhur+Toshniwal" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+%26+ML+Explorer+%7C+Cloud+Innovator;Transforming+Ideas+Into;Intelligent+Solutions+%E2%9A%A1" alt="Tagline" />
+<br/>
+<!-- Tech Identity -->
 
 
 
