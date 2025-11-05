@@ -1,4 +1,6 @@
-# Hi 👋, I'm Madhur Toshniwal
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1000&color=4D7BD9&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Madhur+Toshniwal;Coding+%7C+AI+%26+ML+%7C+Web+Dev+%7C+Cloud+%7C+Data+Analytics" alt="Typing SVG" />
+</p>
 **Coding | AI & ML | Web Dev | Cloud Enthusiast | Data Analyst**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhur-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-toshniwal)
