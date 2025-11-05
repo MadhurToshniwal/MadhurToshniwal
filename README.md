@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Madhur+Toshniwal;AI+%26+ML+Engineer+in+the+Making;Cloud+%7C+Web+Dev+%7C+Data+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2800&pause=1000&color=000000&center=true&vCenter=true&width=720&lines=Hi+there!+👋;I'm+Madhur+Toshniwal;AI+%26+ML+Explorer+%7C+Cloud+Innovator;Transforming+Ideas+Into+Intelligent+Solutions+⚡" alt="Typing SVG" />
 </p>
+
 
 
 **Coding | AI & ML | Web Dev | Cloud Enthusiast | Data Analyst**
