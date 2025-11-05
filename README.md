@@ -1,110 +1,80 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2800&pause=1000&color=000000&center=true&vCenter=true&width=720&lines=Hi+there!+👋;I'm+Madhur+Toshniwal;AI+%26+ML+Explorer+%7C+Cloud+Innovator;Transforming+Ideas+Into+Intelligent+Solutions+⚡" alt="Typing SVG" />
+</p>
 
-<!-- Holographic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,3,5,30&height=150&section=header&text=&fontSize=0&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=%E2%9A%A1+MADHUR+TOSHNIWAL+%E2%9A%A1;AI+ARCHITECT+%7C+CLOUD+VISIONARY" alt="Name Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FFC8&center=true&vCenter=true&width=650&lines=%F0%9F%A7%A0+Architecting+Intelligence+with+Code;%E2%98%81%EF%B8%8F+Engineering+Scalable+Cloud+Solutions;%F0%9F%9A%80+Transforming+Data+into+Digital+Gold;%F0%9F%94%A5+Where+Innovation+Meets+Implementation" alt="Dynamic Taglines"/>
 
-<br/>
 
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+**Coding | AI & ML | Web Dev | Cloud Enthusiast | Data Analyst**
 
-<!-- Holographic Cards -->
-<table align="center">
-<tr>
-<td align="center" width="33%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhur-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-toshniwal)
+[![Gmail](https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white)](mailto:madhurtoshniwal03@gmail.com)
 
-### 🎓 ACADEMIC EXCELLENCE
-**VIT Vellore**  
-B.Tech Computer Science  
-`CGPA: 9.07/10.0`
+---
 
-</td>
-<td align="center" width="33%">
+## ✨ About Me
+🎓 B.Tech in Computer Science @ VIT Vellore, CGPA: 9.07  
+💼 Ongoing Intern at Samsung R&D Institute for Samsung Prism project  
+🤝 Open to collaboration on AI, ML, IoT, and full-stack projects  
 
-### 💼 CURRENT MISSION
-**Samsung R&D Institute**  
-Research & Development  
-`Prism Project | AI/ML`
+---
 
-</td>
-<td align="center" width="33%">
+## 🔭 I’m Currently Working On    
+- Cloud & DevOps projects  
+- AI & Machine Learning projects  
+- Final year B.Tech CSE projects  
 
-### 🌟 IMPACT ZONE
-**AI × Cloud × Innovation**  
-Building Tomorrow's  
-`Intelligent Systems`
+## 🌱 I’m Currently Learning
+- Docker, Kubernetes & Advanced Cloud Architectures  
+- Large Language Models & AI Integrations  
 
-</td>
-</tr>
-</table>
+---
 
-<!-- Glowing Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+## 💼 Experience
 
-<!-- Matrix Style Bio -->
-```diff
-@@  SYSTEM STATUS: ONLINE  @@
+**Research & Development Intern | Samsung R&D Bangalore (SRIB) | Samsung Prism**  
+*July 2025 – Present*  
+- Developing a lightweight ML model using NLP techniques to generate concise, context-aware titles from OCR-extracted text in multiple languages, targeting 93%+ accuracy on 10K+ noisy/informal real-world samples.  
+- Optimizing for edge deployment on mobile and embedded platforms using generative AI with real-time multi-title generation and 95%+ confidence threshold selection.  
+- Integrated via APIs to auto-fill titles across scheduling, reminders, and note-taking tools—boosting automation and user productivity by up to 80%.
 
-+ [CORE_EXPERTISE]    → AI/ML Engineering | Cloud Architecture | Full-Stack Development
-+ [CURRENT_FOCUS]     → LLMs | Kubernetes | Edge AI Deployment
-+ [COLLABORATION]     → Open Source | AI Research | IoT Solutions
-+ [ACHIEVEMENTS]      → Samsung Prism Intern | 9.07 CGPA | Production Systems
-! [PHILOSOPHY]        → "Code is poetry, AI is the future, Cloud is the canvas"
-# [STATUS]            → Actively innovating & building at scale 🚀
-```
+**SDE Intern | Mechatronics Systems Pvt. Ltd | Pune**  
+*May 2025 – July 2025*  
+- Engineered a real-time hydro-informatics platform integrating a Python-based autonomous email-to-database ETL pipeline, high-frequency schedulers (10–15s), and MySQL backend—reducing latency by 70% and data errors by 60%.  
+- Pioneered an interactive real-time dashboard with anomaly clustering, data visualization, and Twilio-based 24×7 alerting—deployed on cloud infrastructure to automate internal monitoring and improve transmission reliability to 99% across remote tactical units.
 
-<!-- Animated Connection Badges -->
-<br/>
+---
 
-<a href="https://www.linkedin.com/in/madhur-toshniwal">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0A66C2" height="35" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:madhurtoshniwal03@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=EA4335" height="35" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="tel:+917248942163">
-  <img src="https://img.shields.io/badge/CALL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=25D366" height="35" alt="Phone"/>
-</a>
+## 🛠 Languages & Tools
 
-<br/><br/>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<!-- Tech Pulse Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
-<!-- Stats Dashboard -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhurToshniwal&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7&background=000000" width="95%" alt="Trophy"/>
-</div>
 
-<br/>
+## 📫 Contact Me
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=MadhurToshniwal&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FFC8&text_color=FFFFFF&ring_color=00D9FF" height="190"/>
-</td>
-<td align="center" width="50%">
-<img src="https://streak-stats.demolab.com/?user=MadhurToshniwal&theme=algolia&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FFC8&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=00FFC8" height="190"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Language Graph -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhurToshniwal&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="45%" alt="Languages"/>
-
-<!-- Closing Wave -->
-<br/><br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=100&section=footer&animation=twinkling"/>
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=MadhurToshniwal&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurtoshniwal03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-toshniwal)
+[![Phone](https://img.shields.io/badge/Phone-+91--7248942163-blue?style=for-the-badge&logo=phone&logoColor=white)]()
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue" alt="Profile Views"/>
+</p>
