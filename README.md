@@ -1,42 +1,45 @@
 <div align="center">
 <!-- Animated Gradient Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&fontSize=0" />
+
 <!-- Main Animated Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=50&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=Hi+There!+%F0%9F%91%8B;I'm+Madhur+Toshniwal" alt="Name" />
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+%26+ML+Explorer+%7C+Cloud+Innovator;Transforming+Ideas+Into;Intelligent+Solutions+%E2%9A%A1" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=50&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=Hi+There!+👋;I'm+Madhur+Toshniwal" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+%26+ML+Explorer+%7C+Cloud+Innovator;Transforming+Ideas+Into;Intelligent+Solutions+⚡" alt="Tagline" />
+
 <br/>
-<!-- Tech Identity -->
-
-
-
-
 
 **Coding | AI & ML | Web Dev | Cloud Enthusiast | Data Analyst**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhur-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-toshniwal)
 [![Gmail](https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white)](mailto:madhurtoshniwal03@gmail.com)
 
+</div>
+
 ---
 
-## ✨ About Me
+<h2 align="center">✨ About Me</h2>
+
 🎓 B.Tech in Computer Science @ VIT Vellore, CGPA: 9.07  
 💼 Ongoing Intern at Samsung R&D Institute for Samsung Prism project  
 🤝 Open to collaboration on AI, ML, IoT, and full-stack projects  
 
 ---
 
-## 🔭 I’m Currently Working On    
+<h2 align="center">🔭 I’m Currently Working On</h2>
+
 - Cloud & DevOps projects  
 - AI & Machine Learning projects  
 - Final year B.Tech CSE projects  
 
-## 🌱 I’m Currently Learning
+<h2 align="center">🌱 I’m Currently Learning</h2>
+
 - Docker, Kubernetes & Advanced Cloud Architectures  
 - Large Language Models & AI Integrations  
 
 ---
 
-## 💼 Experience
+<h2 align="center">💼 Experience</h2>
 
 **Research & Development Intern | Samsung R&D Bangalore (SRIB) | Samsung Prism**  
 *July 2025 – Present*  
@@ -51,7 +54,7 @@
 
 ---
 
-## 🛠 Languages & Tools
+<h2 align="center">🛠 Languages & Tools</h2>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,12 +77,12 @@
 
 ---
 
-
-## 📫 Contact Me
+<h2 align="center">📫 Contact Me</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurtoshniwal03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-toshniwal)
 [![Phone](https://img.shields.io/badge/Phone-+91--7248942163-blue?style=for-the-badge&logo=phone&logoColor=white)]()
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue" alt="Profile Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue" />
 </p>
