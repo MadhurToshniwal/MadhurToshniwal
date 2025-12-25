@@ -16,7 +16,7 @@
 
 ---
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue" alt="Profile Views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20views&left_color=gray&right_color=blue" alt="Profile Views"/>
 
 ## ✨ About Me
 
@@ -71,6 +71,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=natural-language-processing&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=server&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
