@@ -84,5 +84,5 @@
 [![Phone](https://img.shields.io/badge/Phone-+91--7248942163-blue?style=for-the-badge&logo=phone&logoColor=white)]()
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue" alt="Profile Views"/>
 </p>
