@@ -6,9 +6,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+%26+ML+Explorer+%7C+Cloud+Innovator;Transforming+Ideas+Into;Intelligent+Solutions+%E2%9A%A1" alt="Tagline" />
 <br/>
 <!-- Tech Identity -->
-**Coding | AI & ML | Web Dev | Cloud Enthusiast | Data Analyst**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhur-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-toshniwal)
-[![Gmail](https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white)](mailto:madhurtoshniwal03@gmail.com)
+<p><strong>Coding | AI & ML | Web Dev | Cloud Enthusiast | Data Analyst</strong></p>
+
+<p>
+<a href="https://www.linkedin.com/in/madhur-toshniwal"><img src="https://img.shields.io/badge/LinkedIn-Madhur-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:madhurtoshniwal03@gmail.com"><img src="https://img.shields.io/badge/Gmail-Madhur-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 </div>
 
 ---
