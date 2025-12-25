@@ -16,11 +16,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue" alt="Profile Views"/>
-</p>
-
----
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MadhurToshniwal.MadhurToshniwal&label=Profile%20Views&left_color=gray&right_color=blue" alt="Profile Views"/>
 
 ## ✨ About Me
 
